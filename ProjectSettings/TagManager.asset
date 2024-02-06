@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Jump Refresh
+  - Permanent
+  - FirstPortal
+  - AudioManager
+  - Interact
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f67160f37315354e97710a33e9b9d3d, type: 3}
+  m_Name: Leonard_1
+  m_EditorClassIdentifier: 
+  fullDialogue:
+  - characterPicture: {fileID: 21300000, guid: 0ae0050ae3ceffd4e9d9365c0b43aff1, type: 3}
+    characterName: '?'
+    speechText: Boa tarde detetive.
+  - characterPicture: {fileID: 21300000, guid: 0ae0050ae3ceffd4e9d9365c0b43aff1, type: 3}
+    characterName: Leonard
+    speechText: Eu sou Leonard, prazer em te conhecer.
+  - characterPicture: {fileID: 21300000, guid: 0ae0050ae3ceffd4e9d9365c0b43aff1, type: 3}
+    characterName: Leonard
+    speechText: "Se voc\xEA chegou at\xE9 aqui, significa que o tempo vai parar em
+      breve, n\xE3o \xE9?"
+  - characterPicture: {fileID: 21300000, guid: 0ae0050ae3ceffd4e9d9365c0b43aff1, type: 3}
+    characterName: Leonard
+    speechText: "Eu fui o escolhido da part\xEDcula por muitos anos, mas dessa vez
+      ela escolheu voc\xEA."
+  - characterPicture: {fileID: 21300000, guid: 0ae0050ae3ceffd4e9d9365c0b43aff1, type: 3}
+    characterName: Leonard
+    speechText: "Cabe a voc\xEA solucionar o mist\xE9rio e retornar o tempo ao seu
+      fluxo normal."
+  - characterPicture: {fileID: 21300000, guid: 0ae0050ae3ceffd4e9d9365c0b43aff1, type: 3}
+    characterName: Leonard
+    speechText: Boa sorte, detetive.

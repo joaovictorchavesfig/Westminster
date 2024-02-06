@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f67160f37315354e97710a33e9b9d3d, type: 3}
+  m_Name: "Mon\xF3logo_2"
+  m_EditorClassIdentifier: 
+  fullDialogue:
+  - characterPicture: {fileID: 21300000, guid: 017456fe22690a344ab7d5ee4bb5f1f5, type: 3}
+    characterName: 
+    speechText: "(Talvez n\xE3o seja a hora de entrar aqui ainda...)"

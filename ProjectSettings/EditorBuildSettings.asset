@@ -6,6 +6,75 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Levels/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Levels/Menu/MainMenu.unity
+    guid: a431033b7109d0e4bb11e80c84123dc1
+  - enabled: 1
+    path: Assets/Levels/Menu/CartasMenu.unity
+    guid: 760dbdc3852203b4a957546ace7e1086
+  - enabled: 1
+    path: Assets/Levels/Inicio/Presente_Inicio.unity
+    guid: f1668d6aad52abb41a2dbb124b100502
+  - enabled: 1
+    path: Assets/Levels/Inicio/Passado_Inicio.unity
+    guid: 3ed7e2cfaab311d439fe521b3c40e604
+  - enabled: 1
+    path: Assets/Levels/Castelo(Entrada)/Ida/Presente_Castelo_Entrada.unity
+    guid: 9fcc5bf6e20e1004bb0e98a087b3803f
+  - enabled: 1
+    path: Assets/Levels/Castelo(Entrada)/Ida/Passado_Castelo_Entrada.unity
+    guid: 58216a127f372d04faed1cf918367492
+  - enabled: 1
+    path: "Assets/Levels/Transi\xE7\xE3o/Ida/Trans_Presente.unity"
+    guid: 93cc6df0516e788459d0692c5e5696a3
+  - enabled: 1
+    path: "Assets/Levels/Transi\xE7\xE3o/Ida/Trans_Passado.unity"
+    guid: 1f5209e1a89b7e54999e0386cce9a356
+  - enabled: 1
+    path: Assets/Levels/BigBen/BigBen1_Present.unity
+    guid: feacbe73644e0c64bab01dec9c6fb3b5
+  - enabled: 1
+    path: Assets/Levels/BigBen/BigBen1_Past.unity
+    guid: 3e1f28e908ca70e4696bead6d96bf712
+  - enabled: 1
+    path: "Assets/Levels/Transi\xE7\xE3o/Volta/Trans_PresenteVolta.unity"
+    guid: 9bb3b74b218ff46498df5f8355dbf03a
+  - enabled: 1
+    path: "Assets/Levels/Transi\xE7\xE3o/Volta/Trans_PassadoVolta.unity"
+    guid: 78a440954b1743a4a8c34f74ee3785e2
+  - enabled: 1
+    path: Assets/Levels/Castelo(Entrada)/Volta/Presente_Castelo_Entrada.unity
+    guid: df765ff0c71e96540a49a90cb1d13261
+  - enabled: 1
+    path: Assets/Levels/Castelo(Entrada)/Volta/Passado_Castelo_Entrada.unity
+    guid: 46c5e7416c6f2ce4e82ad37f80f9ed73
+  - enabled: 1
+    path: "Assets/Levels/Sal\xE3o/Ida/Sal\xE3oTrancadoPresente.unity"
+    guid: c9d793852fa16e64d9d72f2a7eef2e12
+  - enabled: 1
+    path: "Assets/Levels/Sal\xE3o/Ida/Sal\xE3oTrancadoPassado.unity"
+    guid: 04ace18a979af8a4db1f09b8bcd68af7
+  - enabled: 1
+    path: Assets/Levels/Castelo(Interno)/Interior_Presente.unity
+    guid: d02d3c9ba37003d458c577fff929cfb8
+  - enabled: 1
+    path: Assets/Levels/Castelo(Interno)/Interior_Passado.unity
+    guid: f0feb37272446f54691fa75ad4970abf
+  - enabled: 1
+    path: "Assets/Levels/Sal\xE3o/Volta/Sal\xE3oTrancadoPresenteVolta.unity"
+    guid: a910119e73924ce4aa645da658349784
+  - enabled: 1
+    path: "Assets/Levels/Sal\xE3o/Volta/Sal\xE3oTrancadoPassadoVolta.unity"
+    guid: 0dd7d3e4f92a0ee45a206d161365c931
+  - enabled: 1
+    path: Assets/Levels/SegundaSala/SegundaSalaPresente.unity
+    guid: d4332cb9c57eac744a6bf8dbeba3dce7
+  - enabled: 1
+    path: Assets/Levels/SegundaSala/SegundaSalaPassado.unity
+    guid: 379bd6277ef27f64da79b6e9a80ec607
+  - enabled: 1
+    path: Assets/Levels/Menu/Ending.unity
+    guid: 4347613e80029ac41b7d25e3b321f568
+  - enabled: 1
+    path: "Assets/Levels/Menu/Cr\xE9ditos.unity"
+    guid: c6b0bef05fe77494ea63b213500dce94
   m_configObjects: {}
